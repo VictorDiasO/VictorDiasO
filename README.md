@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning: JavaScript/TypeScript (React Native, ReactJS, NodeJS, NextJS), Android with Kotlin, DevOps and Blockchain.
-- 👯 I’m looking to collaborate on: Financial Institutions, Healthy/Social Projects, Blockchain, and/or Machine Learning.
+A Brazilian guy who started coding for love and still for the bills hahaha, kidding.
+
